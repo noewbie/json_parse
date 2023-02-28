@@ -1,0 +1,15 @@
+{
+  "student": [
+    {
+      "name": "Hizen Novi P. Melendez",
+      "age": 21,
+      "email": "mark@mail.com",
+      "favoriteQuotes": "Don't be afraid of failure",
+    },
+     {
+      "classSection": "BSIT-3C",
+      "sectionCode": IT 1310,
+      "email": "2001105313@student.buksu.edu.ph",
+    },
+    ]
+}
