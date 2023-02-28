@@ -8,7 +8,7 @@
      {
       "classSection": "BSIT-3C",
       "sectionCode": IT 1310,
-      "email": "2001105313@student.buksu.edu.ph",
+      "buksuEmail": "2001105313@student.buksu.edu.ph",
     },
     ]
 }
