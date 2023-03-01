@@ -1,0 +1,20 @@
+{
+    "object1": 
+    [
+        {
+            "fullName": "Aldric Mico E. Namata",
+            "age":  21,
+            "favoriteQuotes": "Don't be afraid of failure"
+        }
+    ],
+    "object2":
+    [
+        {
+            "classSection": "BSIT-3C",
+            "sectionCode": "T239",
+            "buksuEmail": "2001103597@student.buksu.edu.ph"
+        }
+
+    ]
+    
+}
